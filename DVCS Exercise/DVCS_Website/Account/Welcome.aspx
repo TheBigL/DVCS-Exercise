@@ -1,12 +1,9 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Welcome.aspx.cs" Inherits="Account_Welcome" MasterPageFile="~/Site.Master" %>
 
-<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>Welcome to my website!</title>
-</head>
-<body>
+<asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+
+<asp:PlaceHolder runat="server">
     <form id="form1" runat="server">
     <div>
     <h1>Welcome to my website!</h1>
@@ -18,8 +15,9 @@
         <p>I've been to 4 states in the United States: New York, Ohio, Oregon, and Washington. I've also been to the UK.</p>
 
 
-        <p>You can catch me on Twitter @realLebanM</p>
+        <p>You can catch me on Twitter @realLebanM. Don't forget to contact me by phone @ 123-456-7890</p>
     </div>
     </form>
-</body>
-</html>
+</asp:PlaceHolder>
+
+</asp:Content>
