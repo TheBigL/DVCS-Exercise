@@ -15,8 +15,10 @@
             and PHP. I can also manage databases in MSSQL & MySQL. I don't have any practical experience in terms of doing them on a job site, but I cannot wait to.
         </p>
 
+        <p>I've been to 4 states in the United States: New York, Ohio, Oregon, and Washington. I've also been to the UK.</p>
 
 
+        <p>You can catch me on Twitter @realLebanM</p>
     </div>
     </form>
 </body>
