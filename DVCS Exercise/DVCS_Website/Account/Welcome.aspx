@@ -4,7 +4,6 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 
 <asp:PlaceHolder runat="server">
-    <form id="form1" runat="server">
     <div>
     <h1>Welcome to my website!</h1>
         <p>I'm Leban Adbuallahi Mohamed (b. 1993). I'm known for developing software on various sorts of platforms and languages.
@@ -17,7 +16,6 @@
 
         <p>You can catch me on Twitter @realLebanM. Don't forget to contact me by phone @ 123-456-7890</p>
     </div>
-    </form>
 </asp:PlaceHolder>
 
 </asp:Content>
